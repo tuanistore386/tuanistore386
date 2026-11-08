@@ -3,7 +3,7 @@
 # Cách dùng: TV_HOST=192.168.1.50 ./setup.sh
 set -euo pipefail
 REPO=https://github.com/Gathin23/cleanyourtv
-COMMIT=5e9e4f119e405eb8bcc18296f2567c9d6a7c4217   # bản đã kiểm tra ngày 2026-10-23
+COMMIT=d451b175ab3f869f9a5d66993fb2dd501c96920b   # bản đã kiểm tra ngày 2026-11-08
 DIR="${CLEANYOURTV_DIR:-$HOME/cleanyourtv}"
 
 if [ ! -d "$DIR/.git" ]; then

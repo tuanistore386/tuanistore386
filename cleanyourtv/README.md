@@ -7,7 +7,7 @@ Tắt app rác, quảng cáo, telemetry qua ADB trên mạng LAN và cài launch
 
 | Hãng | Hệ điều hành | Dọn app + launcher | Ghi chú |
 |---|---|---|---|
-| Sony Bravia / KD / XR | Android TV / Google TV | **Có** | Cần Android 8.0+ cho launcher. Repo gốc có ~30 danh sách Sony trong `examples/sony-*`. |
+| Sony Bravia / KD / XR | Android TV / Google TV | **Có** | Cần Android 8.0+ cho launcher. Repo gốc có ~49 danh sách Sony trong `examples/sony-*`. |
 | Samsung | Tizen | **Không** | Tizen không có ADB, không tắt được app, không đổi được màn hình chính. Chỉ chỉnh tay trong Cài đặt + chặn DNS ở router (xem dưới). |
 
 ## 1. Cài trên máy tính (macOS / Linux, cùng Wi-Fi với TV)
